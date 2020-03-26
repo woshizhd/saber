@@ -1,6 +1,6 @@
 # saber
 纵行于网络世界的瑞士军刀，让你成为真正的“法外狂徒”——from 《九星毒奶》
-
+---
 
 #### Markdown 常用语法
 - [菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html) [较完整教程](http://xianbai.me/learn-md/index.html)
@@ -24,7 +24,7 @@
 - [命令参考](https://zhuanlan.zhihu.com/p/97376998)
 
 #### 在线工具箱
-- wn.run————在浏览器任何网址前加上此字段，获取该网页可用的脚本
+> wn.run————在浏览器任何网址前加上此字段，获取该网页可用的脚本
 - [图片压缩](https://squoosh.app/)
 - Chrome 浏览器自带长截图
     1. 按下F12（Windows） ⌘Command + ⌥Option + I（Mac）快捷键，打开调试界面；
