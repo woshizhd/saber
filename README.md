@@ -30,5 +30,5 @@
 - Chrome 浏览器自带长截图
     1. 按下F12（Windows） ⌘Command + ⌥Option + I（Mac）快捷键，打开调试界面；
     2. 按下Ctrl + Shift + P（Windows） ⌘Command + ⇧Shift + P（Mac），输入命令 Capture full size screenshot（只输入 full 就行了），按下回车
-- [PDF修改](https://tools.pdf24.org/zh/)
+- [PDF修改](https://www.ilovepdf.com/zh-cn)
 
